@@ -14,8 +14,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7A36E9C11E92DD190094EEC5"
-               BuildableName = "SimpleCalc.app"
+               BlueprintIdentifier = "7A36E9FB1E92DE950094EEC5"
+               BuildableName = "SimpleCalc"
                BlueprintName = "SimpleCalc"
                ReferencedContainer = "container:SimpleCalc.xcodeproj">
             </BuildableReference>
@@ -28,32 +28,12 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7A36E9D51E92DD1A0094EEC5"
-               BuildableName = "SimpleCalcTests.xctest"
-               BlueprintName = "SimpleCalcTests"
-               ReferencedContainer = "container:SimpleCalc.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7A36E9E01E92DD1A0094EEC5"
-               BuildableName = "SimpleCalcUITests.xctest"
-               BlueprintName = "SimpleCalcUITests"
-               ReferencedContainer = "container:SimpleCalc.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7A36E9C11E92DD190094EEC5"
-            BuildableName = "SimpleCalc.app"
+            BlueprintIdentifier = "7A36E9FB1E92DE950094EEC5"
+            BuildableName = "SimpleCalc"
             BlueprintName = "SimpleCalc"
             ReferencedContainer = "container:SimpleCalc.xcodeproj">
          </BuildableReference>
@@ -75,8 +55,8 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7A36E9C11E92DD190094EEC5"
-            BuildableName = "SimpleCalc.app"
+            BlueprintIdentifier = "7A36E9FB1E92DE950094EEC5"
+            BuildableName = "SimpleCalc"
             BlueprintName = "SimpleCalc"
             ReferencedContainer = "container:SimpleCalc.xcodeproj">
          </BuildableReference>
@@ -94,8 +74,8 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7A36E9C11E92DD190094EEC5"
-            BuildableName = "SimpleCalc.app"
+            BlueprintIdentifier = "7A36E9FB1E92DE950094EEC5"
+            BuildableName = "SimpleCalc"
             BlueprintName = "SimpleCalc"
             ReferencedContainer = "container:SimpleCalc.xcodeproj">
          </BuildableReference>
